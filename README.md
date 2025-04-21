@@ -28,4 +28,4 @@ Una **excepción** a la regla de que los algoritmos no implican decisiones subje
 Estos algoritmos:
 - No son arbitrarios.
 - Utilizan la aleatoriedad de manera controlada.
-- Tienen aplicaciones importantes y se tratan más a fondo en capítulos posteriores.
+- Tienen aplicaciones importantes.
